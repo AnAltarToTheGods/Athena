@@ -2,4 +2,6 @@
 
 # Books
 
-# Other
+# Misc. Offerings
+
+# Prayers
